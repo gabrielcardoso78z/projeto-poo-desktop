@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/gui/PacienteWindow.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/gui/EditPacienteWindow.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/entities/Paciente.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/application/ProjetoClinica.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/dao/BancoDados.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/service/PacienteService.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/test/dao/PacienteDAOTeste.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/gui/SobrePacienteWindow.java</file>
+            <file>file:/Users/gabrielcardoso/NetBeansProjects/ProjetoClinica/src/br/com/dao/PacienteDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
